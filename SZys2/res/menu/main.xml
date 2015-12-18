@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+   <item
+        android:id="@+id/newgame"
+        android:title=""
+        android:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/help"
+        android:title="记录库"
+        android:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/bangzhu"
+        android:title="帮助"
+        android:showAsAction="always">
+    </item>
+    <item
+		android:id="@+id/item3"
+		android:actionLayout="@layout/clock"
+		android:showAsAction="always"
+		android:title="时钟">
+	</item>
+
+
+
+
+</menu>
